@@ -1,4 +1,3 @@
-
 #navigation{
 pading: 0;
 margin: 0;
@@ -23,6 +22,7 @@ background-color:#80aaff;
 font-family:Gill Sans;
 color:brown;
 text-align: center;
+font-size:1.5em;
 }
 
 #arrow img {
